@@ -5,7 +5,45 @@
 
 ![Recommendation Pipeline](https://raw.githubusercontent.com/Harshul-ds/Movie-Recommender/main/assets/recommendation_pipeline.png)
 
-A comprehensive movie recommendation system that analyzes user behavior and movie characteristics to deliver personalized movie suggestions. This system leverages multiple machine learning algorithms to provide accurate and relevant recommendations.
+A sophisticated movie recommendation engine that transforms user behavior into personalized movie suggestions. This system combines multiple machine learning algorithms to deliver accurate recommendations that evolve with user preferences.
+
+## Key Features
+
+1. **Advanced Recommendation Algorithms**
+   - Probabilistic Matrix Factorization
+   - User-based Collaborative Filtering
+   - Item-based Collaborative Filtering
+   - Hybrid recommendation approach
+
+2. **User Behavior Analysis**
+   - Watch history tracking
+   - Rating prediction
+   - Similarity scoring
+   - User segmentation
+
+3. **Movie Analysis**
+   - Genre-based recommendations
+   - Tag-based similarity
+   - Popularity scoring
+   - Content-based filtering
+
+4. **Performance Metrics**
+   - MAE (Mean Absolute Error)
+   - RMSE (Root Mean Squared Error)
+   - Precision/Recall
+   - Coverage metrics
+
+## Technical Details
+
+- Built with Python 3.8+
+- Uses NumPy for numerical computations
+- Implements Pandas for data manipulation
+- Uses Scikit-learn for ML algorithms
+- Implements Matplotlib/Seaborn for visualization
+- Follows clean code principles
+- Includes comprehensive testing
+- Supports multiple similarity metrics
+- Implements caching for performance
 
 ## Project Overview
 
