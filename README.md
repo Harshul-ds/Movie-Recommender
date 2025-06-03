@@ -1,6 +1,11 @@
-# Movie Recommender System Analysis
+# Movie Recommendation Engine 🎬📊
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![MovieLens](https://img.shields.io/badge/Dataset-MovieLens-orange.svg)](https://grouplens.org/datasets/movielens/)
 
-A sophisticated recommendation engine that analyzes user preferences and movie characteristics to provide personalized movie recommendations. The system leverages advanced machine learning algorithms to predict user ratings and suggest movies that users are likely to enjoy.
+![Recommendation Pipeline](https://raw.githubusercontent.com/Harshul-ds/Movie-Recommender/main/assets/recommendation_pipeline.png)
+
+A comprehensive movie recommendation system that analyzes user behavior and movie characteristics to deliver personalized movie suggestions. This system leverages multiple machine learning algorithms to provide accurate and relevant recommendations.
 
 ## Project Overview
 
